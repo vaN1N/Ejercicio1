@@ -1,3 +1,0 @@
-# Mi primer proyecto con Github y Vs Code
-
-#Mi segundo commit
